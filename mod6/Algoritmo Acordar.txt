@@ -1,0 +1,15 @@
+1: Acordar
+2: Abrir os olhos
+3: Levantar da cama
+4: Entrar no banheiro
+5: Pegar escova
+6: Colocar pasta de dente
+: Escovar os dentes
+: Enxaguar a boca
+: Ligar o chuveiro
+: tomar banho
+: desligar o chuveiro
+: Pegar toalha
+: Se secar
+: Sair do banheiro
+: Vestir roupa
